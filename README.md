@@ -33,6 +33,3 @@ This project presents a comprehensive analysis of car sales in the United States
 - matplotlib, seaborn – static visualizations
 - plotly.express – interactive charts and maps
 - wordcloud – text-based visual representation of sellers
-
-
-
