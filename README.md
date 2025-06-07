@@ -3,6 +3,8 @@
 ## Project Overview
 This project presents a comprehensive analysis of car sales in the United States using Python. It explores sales trends, top-performing brands and models, seller activity, and geographic distribution of sales through data visualizations and statistical summaries.
 
+![car sales analysis-01](https://github.com/user-attachments/assets/4b7bd476-602f-4c09-9c24-bd6e8a09005d)
+
 ## 📌 Key Features
 #### Data Cleaning & Preparation
 - Cleaned and prepared data by handling missing values and filtering for top brands and sellers.
